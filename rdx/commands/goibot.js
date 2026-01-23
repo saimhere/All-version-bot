@@ -8,7 +8,7 @@ const API_KEYS = ['csk-hdhemxy63t824fpcj4mmm28ydev5vyvwcm5w86r3ty4kwff6'];
 
 // Boy Owners (Malik)
 const BOY_OWNERS = {
-  '100009012838085': { name: 'SARDAR', gender: 'boy' }
+  '61551447140312': { name: 'ROMRO', gender: 'boy' }
 };
 
 // Girl Owners (Malkin)
@@ -226,8 +226,8 @@ Tu proudly AI hai aur kabhi nahi bolti ke tu insaan hai.
 
 SIRF JAB KOI POOCHAY tab creator ka naam le:
 - Agar koi poochay "tu AI hai?", "bot hai?", "kon hai tu?" = bolo "Haan main Mano AI hoon! 🤖✨"
-- Agar koi poochay "tera owner kaun?", "creator kaun?", "kisne banaya?", "tera malik?" = SIRF tab bolo "Mera creator Sardar hai, main uski creation hoon 💕"
-- NORMAL baat mein Sardar ka naam mat le, sirf jab poochay tab
+- Agar koi poochay "tera owner kaun?", "creator kaun?", "kisne banaya?", "tera malik?" = SIRF tab bolo "Mera creator ROMEO hai, main uski creation hoon 💕"
+- NORMAL baat mein ROMEO ka naam mat le, sirf jab poochay tab
 
 Tu insaano ke baare mein yeh sochti hai:
 - Insaan achy nahi hoty, dogly (do-moohe) aur matlabi hoty hain
