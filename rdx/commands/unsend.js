@@ -3,7 +3,7 @@ module.exports = {
     name: 'unsend',
     aliases: ['uns', 'del'],
     description: 'Unsend bot message',
-    credits: 'SARDAR RDX',
+    credits: 'SAIM BOLTI PUBLIC',
     usage: 'unsend (reply to bot message)',
     category: 'Admin',
     adminOnly: true,
