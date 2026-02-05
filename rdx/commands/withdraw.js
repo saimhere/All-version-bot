@@ -3,7 +3,7 @@ module.exports = {
     name: 'withdraw',
     aliases: ['wd', 'take'],
     description: 'Withdraw money from bank',
-    credits: 'SARDAR RDX',
+    credits: 'SAIM BOLTI PUBLIC',
     usage: 'withdraw [amount/all]',
     category: 'Economy',
     prefix: true
