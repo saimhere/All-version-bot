@@ -7,7 +7,7 @@ module.exports.config = {
   name: "watch",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SARDAR RDX",
+  credits: "SAIM BOLTI PUBLIC",
   description: "Create a watch pair edit with romantic poetry",
   commandCategory: "Love",
   usages: "[@mention optional]",
