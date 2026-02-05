@@ -10,7 +10,7 @@ module.exports.config = {
     prefix: true,
     premium: false,
     category: "media",
-    credits: "SARDAR RDX",
+    credits: "SAIM BOLTI PUBLIC",
     description: "Download video from YouTube",
     commandCategory: "media",
     usages: ".video [video name]",
