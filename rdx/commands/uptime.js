@@ -10,7 +10,7 @@ module.exports = {
     name: "uptime",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "SARDAR RDX",
+    credits: "SAIM BOLTI PUBLIC",
     description: "test",
     commandCategory: "box",
     usages: "test",
