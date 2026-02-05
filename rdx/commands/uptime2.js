@@ -7,7 +7,7 @@ module.exports = {
     name: 'uptime2',
     aliases: ['systeminfo', 'sysinfo'],
     description: 'Check system uptime and info',
-    credits: 'SARDAR RDX',
+    credits: 'SAIM BOLTI PUBLIC',
     usage: 'uptime2',
     category: 'Utility',
     prefix: true
