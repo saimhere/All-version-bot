@@ -3,7 +3,7 @@ module.exports = {
     name: 'work',
     aliases: ['job', 'earn'],
     description: 'Work to earn money',
-    credits: 'SARDAR RDX',
+    credits: 'SAIM KA BOT',
     usage: 'work',
     category: 'Economy',
     prefix: true
