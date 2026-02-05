@@ -7,7 +7,7 @@ module.exports = {
     name: 'user',
     aliases: ['userinfo', 'info'],
     description: 'Show user information',
-    credits: 'SARDAR RDX',
+    credits: 'SAIM BOLTI PUBLIC',
     usage: 'user [mention/reply/uid]',
     category: 'Utility',
     prefix: true
